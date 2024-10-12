@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\himanshu.y.sharma\\Desktop\\Ai Extension\\Ai-Assistent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F3CAFD-5F6A-45A7-86AE-DA88D0DD6CA9}|Ai-Assistent.csproj|c:\\users\\himanshu.y.sharma\\desktop\\ai extension\\ai-assistent\\toolwindows\\mytoolwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F3CAFD-5F6A-45A7-86AE-DA88D0DD6CA9}|Ai-Assistent.csproj|solutionrelative:toolwindows\\mytoolwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F3CAFD-5F6A-45A7-86AE-DA88D0DD6CA9}|Ai-Assistent.csproj|c:\\users\\himanshu.y.sharma\\desktop\\ai extension\\ai-assistent\\vscommandtable.vsct||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B6F3CAFD-5F6A-45A7-86AE-DA88D0DD6CA9}|Ai-Assistent.csproj|solutionrelative:vscommandtable.vsct||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F3CAFD-5F6A-45A7-86AE-DA88D0DD6CA9}|Ai-Assistent.csproj|c:\\users\\himanshu.y.sharma\\desktop\\ai extension\\ai-assistent\\toolwindows\\mytoolwindowcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F3CAFD-5F6A-45A7-86AE-DA88D0DD6CA9}|Ai-Assistent.csproj|solutionrelative:toolwindows\\mytoolwindowcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F3CAFD-5F6A-45A7-86AE-DA88D0DD6CA9}|Ai-Assistent.csproj|c:\\users\\himanshu.y.sharma\\desktop\\ai extension\\ai-assistent\\toolwindows\\mytoolwindowcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6F3CAFD-5F6A-45A7-86AE-DA88D0DD6CA9}|Ai-Assistent.csproj|solutionrelative:toolwindows\\mytoolwindowcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyToolWindow.cs",
+              "DocumentMoniker": "C:\\Users\\himanshu.y.sharma\\Desktop\\Ai Extension\\Ai-Assistent\\ToolWindows\\MyToolWindow.cs",
+              "RelativeDocumentMoniker": "ToolWindows\\MyToolWindow.cs",
+              "ToolTip": "C:\\Users\\himanshu.y.sharma\\Desktop\\Ai Extension\\Ai-Assistent\\ToolWindows\\MyToolWindow.cs",
+              "RelativeToolTip": "ToolWindows\\MyToolWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:43:22.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VSCommandTable.vsct",
+              "DocumentMoniker": "C:\\Users\\himanshu.y.sharma\\Desktop\\Ai Extension\\Ai-Assistent\\VSCommandTable.vsct",
+              "RelativeDocumentMoniker": "VSCommandTable.vsct",
+              "ToolTip": "C:\\Users\\himanshu.y.sharma\\Desktop\\Ai Extension\\Ai-Assistent\\VSCommandTable.vsct*",
+              "RelativeToolTip": "VSCommandTable.vsct*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-10-11T16:36:26.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyToolWindowControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\himanshu.y.sharma\\Desktop\\Ai Extension\\Ai-Assistent\\ToolWindows\\MyToolWindowControl.xaml.cs",
+              "RelativeDocumentMoniker": "ToolWindows\\MyToolWindowControl.xaml.cs",
+              "ToolTip": "C:\\Users\\himanshu.y.sharma\\Desktop\\Ai Extension\\Ai-Assistent\\ToolWindows\\MyToolWindowControl.xaml.cs",
+              "RelativeToolTip": "ToolWindows\\MyToolWindowControl.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:28:49.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyToolWindowControl.xaml",
+              "DocumentMoniker": "C:\\Users\\himanshu.y.sharma\\Desktop\\Ai Extension\\Ai-Assistent\\ToolWindows\\MyToolWindowControl.xaml",
+              "RelativeDocumentMoniker": "ToolWindows\\MyToolWindowControl.xaml",
+              "ToolTip": "C:\\Users\\himanshu.y.sharma\\Desktop\\Ai Extension\\Ai-Assistent\\ToolWindows\\MyToolWindowControl.xaml",
+              "RelativeToolTip": "ToolWindows\\MyToolWindowControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-11T16:22:54.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
